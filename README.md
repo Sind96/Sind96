@@ -3,8 +3,8 @@
 I'm a Full-stack Developer based in London, UK 
 
 
-### Connect with me on:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+### Connect with me 👇
+![LinkedIn-url](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ### 🛠️ Languages and Tools
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 [Mongo-Db-url]: https://www.mongodb.com/docs/atlas/getting-started/
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express.js-url]: https://expressjs.com/
-[LinkedIn]: [(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindhu-yogu/)
+[LinkedIn-url]: [(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sindhu-yogu/)]
