@@ -1,7 +1,6 @@
 # Hi there, I'm Sindhu! 👋
 
-I'm a Full-stack Developer based in London,UK 🇬🇧: 🇬🇧:
-🏴󠁧󠁢󠁥󠁮󠁧󠁿:. 
+I'm a Full-stack Developer based in London, UK   <img src="https://cdn-icons-png.flaticon.com/512/197/197485.png" width="13" />.
 
 
 
