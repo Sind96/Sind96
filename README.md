@@ -1,6 +1,6 @@
 # Hi there, I'm Sindhu! 👋
 
-I'm a Full-stack Developer based in London, UK 
+I'm a Full-stack Developer based in London, UK 🇬🇧
 
 
 
@@ -12,7 +12,7 @@ I'm a Full-stack Developer based in London, UK
 
 
 ### 🛠️ Languages and Tools
-[![Git][Git]][Git-url] . [![GitHub][GitHub]][GitHub-url] . [![React][React]][React-url] . [![Next.js][Next.js]][Next-url] . [![TypeScript][TypeScript]][TypeScript-url] . [![Express.js][Express.js]][Express.js-url] .[![MongoDB][Mongo-Db]][Mongo-Db-url] . [![Sequelize][Sequelize]][Sequelize-url] . [![Prisma][Prisma]][Prisma-url] . [![TailwindCSS][TailwindCSS]][TailwindCSS-url] . [![Shadcn][Shadcn]][Shadcn-url] . [![Redux][Redux]][Redux-url] . [![ClerkAuth][ClerkAuth]][ClerkAuth-url]  . [![Vercel][Vercel]][Vercel-url] . [![ESLint][ESLint]][ESLint-url] . [![Prettier][Prettier]][Prettier-url]
+[![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![React][React]][React-url] [![Next.js][Next.js]][Next-url] [![TypeScript][TypeScript]][TypeScript-url] [![Express.js][Express.js]][Express.js-url] [![MongoDB][Mongo-Db]][Mongo-Db-url] [![Sequelize][Sequelize]][Sequelize-url] [![Prisma][Prisma]][Prisma-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Shadcn][Shadcn]][Shadcn-url] [![Redux][Redux]][Redux-url] [![ClerkAuth][ClerkAuth]][ClerkAuth-url] [![Vercel][Vercel]][Vercel-url] [![ESLint][ESLint]][ESLint-url] [![Prettier][Prettier]][Prettier-url]
 
 <!--
 **Sind96/Sind96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
