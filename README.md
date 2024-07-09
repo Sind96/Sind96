@@ -2,12 +2,13 @@
 
 I'm a Full-stack Developer based in London, UK 
 
-## Connect with me on:
+
+### Connect with me on:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ### 🛠️ Languages and Tools
-
+[![React][React]][React-url] [![Express.js][Express.js]][Express.js-url] [![MongoDB][Mongo-Db]][Mongo-Db-url]
 
 <!--
 **Sind96/Sind96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
