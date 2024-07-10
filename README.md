@@ -11,7 +11,7 @@ I'm a Full-stack Developer based in London, UK   <img src="https://cdn-icons-png
 
 
 ### 🛠️ Languages and Tools
-[![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![React][React]][React-url] [![Next.js][Next.js]][Next-url] [![TypeScript][TypeScript]][TypeScript-url] [![Express.js][Express.js]][Express.js-url] [![MongoDB][Mongo-Db]][Mongo-Db-url] [![Sequelize][Sequelize]][Sequelize-url] [![Prisma][Prisma]][Prisma-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Shadcn][Shadcn]][Shadcn-url] [![Redux][Redux]][Redux-url] [![ClerkAuth][ClerkAuth]][ClerkAuth-url] [![Vercel][Vercel]][Vercel-url] [![ESLint][ESLint]][ESLint-url] [![Prettier][Prettier]][Prettier-url]
+[![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![React][React]][React-url] [![Next.js][Next.js]][Next-url] [![TypeScript][TypeScript]][TypeScript-url] [![Express.js][Express.js]][Express.js-url] [![Koa][Koa]][Koa-url] [![MongoDB][Mongo-Db]][Mongo-Db-url] [![Mongoose][Mongoose]][Mongoose-url] [![Sequelize][Sequelize]][Sequelize-url] [![Prisma][Prisma]][Prisma-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Shadcn][Shadcn]][Shadcn-url] [![Vercel][Vercel]][Vercel-url] [![ESLint][ESLint]][ESLint-url] [![Prettier][Prettier]][Prettier-url]
 
 <!--
 **Sind96/Sind96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -74,7 +74,13 @@ Here are some ideas to get you started:
 [Prisma]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
 [Prisma-url]:https://www.prisma.io/docs
 
-[Sequelize]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white
+[Sequelize]: https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white
 [Sequelize-url]: https://sequelize.org/
+
+[Mongoose]: https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=for-the-badge
+[Mongoose-url]: https://mongoosejs.com/docs/index.html
+
+[Koa]: https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=fff&style=for-the-badge
+[Koa-url]: https://koajs.com/#introduction
 
 
