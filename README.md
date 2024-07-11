@@ -11,7 +11,7 @@ I'm a Full-stack Developer based in London, UK   <img src="https://cdn-icons-png
 
 
 ### 🛠️ Languages and Tools
-[![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![React][React]][React-url] [![Next.js][Next.js]][Next-url] [![TypeScript][TypeScript]][TypeScript-url] [![Express.js][Express.js]][Express.js-url] [![Koa][Koa]][Koa-url] [![MongoDB][Mongo-Db]][Mongo-Db-url] [![Mongoose][Mongoose]][Mongoose-url] [![Sequelize][Sequelize]][Sequelize-url] [![Prisma][Prisma]][Prisma-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Shadcn][Shadcn]][Shadcn-url] [![Vercel][Vercel]][Vercel-url] [![ESLint][ESLint]][ESLint-url] [![Prettier][Prettier]][Prettier-url]
+[![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![TypeScript][TypeScript]][TypeScript-url] [![React][React]][React-url] [![Next.js][Next.js]][Next-url] [![Angular][Angular]][Angular-url] [![Express.js][Express.js]][Express.js-url] [![Koa][Koa]][Koa-url] [![MongoDB][Mongo-Db]][Mongo-Db-url] [![Mongoose][Mongoose]][Mongoose-url] [![Sequelize][Sequelize]][Sequelize-url] [![Prisma][Prisma]][Prisma-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Shadcn][Shadcn]][Shadcn-url] [![Vercel][Vercel]][Vercel-url] [![ESLint][ESLint]][ESLint-url] [![Prettier][Prettier]][Prettier-url]
 
 <!--
 **Sind96/Sind96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -82,5 +82,8 @@ Here are some ideas to get you started:
 
 [Koa]: https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=fff&style=for-the-badge
 [Koa-url]: https://koajs.com/#introduction
+
+[Angular]: https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge
+[Angular-url]: https://angular.io/docs
 
 
